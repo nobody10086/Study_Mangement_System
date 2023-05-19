@@ -1,0 +1,2 @@
+# Study_Mangement_System
+学生成绩管理系统C语言dos操作
